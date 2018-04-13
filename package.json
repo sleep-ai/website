@@ -1,0 +1,14 @@
+{
+  "name": "music",
+  "description": "music app to stream bach tunes",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=6.9.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

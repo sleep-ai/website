@@ -1,0 +1,102 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "sleep.ai | a surreal infinity",
+    "scope": "/public/index.html",
+    "display": "browser",
+    "start_url": "https://sleep-ai.azurewebsites.net/public/index.html",
+    "short_name": "sleep.ai",
+    "theme_color": "transparent",
+    "description": "We use a neural network to compose an infinite amount of music inspired by famous classical composers, that one can simply sit back and listen to.",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/b01ffb29-f18f-dd33-0cd2-3eb8660fa6c5.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/windows10/SplashScreen.scale-200.png.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e6992478-ebde-832a-a60a-54fa4257aa8e.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/be03791c-5c66-0bd6-3baa-4371946c4696.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a2011365-c887-7305-db4d-47b0b82de2fe.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b1bb299e-87f0-531a-b4cd-58c2910d9aa5.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/dfc0d1fa-1228-6b04-a1a3-2e76692ac7df.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c04ae180-6a78-4140-8aa3-202aa452cbc6.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/198c8bd6-b5ea-14cc-12a8-962ce4cd888e.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/36c2e873-d656-89f4-1f5d-e9eb84972393.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0852417d-f861-8082-8cda-3d7fb237747a.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2f29be6b-2d2e-6e9b-85d6-d11df9e979ca.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ios/ios-appicon-1024-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/86d70113-f2fb-7740-f412-dc3fbaac7f1e.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1087d54d-abed-afbc-33a3-b7a14ba905af.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5253b390-36e1-a7bd-4bbe-f253f50dbce6.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a989832e-93fe-f930-ca8d-6f56bc4d3c3b.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}

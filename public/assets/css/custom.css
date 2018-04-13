@@ -1,0 +1,30 @@
+#progress {
+    width: 10px;
+    height: 5px;
+    background: #df7366;
+    margin: 5vh 0;
+}
+
+#logo {
+    margin: 0 auto;
+}
+
+#play {
+    transition: 400ms ease all;
+}
+
+@media screen and (max-width: 420px) {
+    #header {
+        min-height: 100vh !important;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+*
+{
+    text-transform: lowercase;
+    user-select: none;
+}
